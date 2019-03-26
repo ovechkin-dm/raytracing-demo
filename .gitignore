@@ -1,0 +1,12 @@
+*.class
+*.log
+*.iml
+.DS_Store
+.cache
+.history
+.lib/
+dist/*
+target/
+
+.worksheet
+.idea
